@@ -1,5 +1,5 @@
 <h1 align="center">Hiya 👋, I'm Colene</h1>
-<h3 align="center">Software Engineer from Brooklyn specializing in WordPress</h3>
+<h3 align="center">Software Engineer from Brooklyn specializing in WordPress custom theme and plugin development.</h3>
 
 ## Tech Stack
 <p align="left">
